@@ -1,4 +1,4 @@
-# Decaying-Spawn-Update-Log
+# Decaying Spawn Update Log
 The update log for Decaying Spawn on Roblox.
 
 https://www.roblox.com/games/75251066427969/Decaying-Spawn
