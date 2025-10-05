@@ -1,6 +1,6 @@
 # Update Log 4
 ### Comment:
-kinda lost motivation, BUT IM  BACK!! (no promises on continuing though). It is not much work, but I'll try to add more tomorrow!
+kinda lost motivation, BUT IM  BACK!! (no promises on continuing though).
 
 ## Recent Update Log 10/3/2025
 * Still an unfinished Spawn Hub
@@ -8,8 +8,8 @@ kinda lost motivation, BUT IM  BACK!! (no promises on continuing though). It is 
 * ‎ ‎ ‎ added more detail
 * ‎ ‎ ‎ starting on the path
 * Part Count: 3.4k~
-
-
+### Comment:
+ It is not much work, but I'll try to add more tomorrow!
 
 ## Previous Update Log 9/23/2025
 * still an unfinished Spawn Hub
